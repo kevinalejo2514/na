@@ -104,7 +104,7 @@ h1 {
 }
 
 .contenido {
-    font-family: "Marck Script", serif; 
+     font-family: "Marck Script", serif; 
     color: var(--texto);
     text-align: left;
     font-size: 12px;
@@ -219,6 +219,7 @@ h1 {
     }
 
 }
+
 
 
 
